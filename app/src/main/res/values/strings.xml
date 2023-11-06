@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission JatpackCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="name">Moh Raihan Romadhoni</string>
+    <string name="email">mohraihanromadhoni2002@gmail.com</string>
+    <string name="ig">raihan.doni</string>
+    <string name="back">Back</string>
+    <string name="search">Search Your Fav Pet</string>
+    <string name="linkedin">Moh Raihan Romadhoni</string>
+
+</resources>
